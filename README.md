@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Thegreatpayload</h1>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDk5YmE4NjQ4MzNjOWU0M2JmNDlkNDIyOTJjYzE4MmIzOTNlYjcyMCZjdD1z/0BVUHAxVgLflWu9wsI/giphy.gif">
 <img align="right" alt="coding" width="100" src="https://media.giphy.com/media/MYI6NK4JOGpOzOriEg/giphy.gif">
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer & Ethical Hacker from India</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thegreatpayload&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="thegreatpayload" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thegreatpayload&theme=tokyonight&show_icons=true&locale=en" alt="thegreatpayload" /></p>
