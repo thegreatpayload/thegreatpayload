@@ -1,13 +1,14 @@
 ### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2EyMmI0YmMzNDJhYWQ2NGQxYTE5MzY3MjI1YTc2NDNjMGU0NTA0MyZjdD1z/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 <!--
 **thegreatpayload/thegreatpayload** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2EyMmI0YmMzNDJhYWQ2NGQxYTE5MzY3MjI1YTc2NDNjMGU0NTA0MyZjdD1z/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
