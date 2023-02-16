@@ -5,10 +5,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thegreatpayload&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="thegreatpayload" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thegreatpayload&theme=tokyonight&show_icons=true&locale=en" alt="thegreatpayload" /></p>
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDk5YmE4NjQ4MzNjOWU0M2JmNDlkNDIyOTJjYzE4MmIzOTNlYjcyMCZjdD1z/0BVUHAxVgLflWu9wsI/giphy.gif">
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thegreatpayload&theme=tokyonight" alt="thegreatpayload" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thegreatpayload&label=Profile%20views&color=0e75b6&style=flat" alt="thegreatpayload" /> </p>
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDk5YmE4NjQ4MzNjOWU0M2JmNDlkNDIyOTJjYzE4MmIzOTNlYjcyMCZjdD1z/0BVUHAxVgLflWu9wsI/giphy.gif">
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/26ufiJt5K7T5teGhW/giphy.gif">
 
 
