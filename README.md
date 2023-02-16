@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/thegreatpayload_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thegreatpayload_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucg9j7iqs8k2beahackuzktw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucg9j7iqs8k2beahackuzktw" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCG9j7iqS8K2BeahackuzKtw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCG9j7iqS8K2BeahackuzKtw" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/a3q98UQP" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/a3q98UQP" height="30" width="40" /></a>
 </p>
 
