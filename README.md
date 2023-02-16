@@ -37,6 +37,6 @@
 <br></br>
 <img align="right" alt="coding" width="200" src="https://media.giphy.com/media/oVvhEYvWDvE1G/giphy.gif">
 <br></br>
-<img align="right" alt="coding" width="200" src="https://media.giphy.com/media/102h4wsmCG2s12/giphy.gif">
+<img align="right" alt="coding" width="200" src="https://media.giphy.com/media/26ufiJt5K7T5teGhW/giphy.gif">
 <br></br>
 
