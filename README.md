@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Thegreatpayload</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="100" src="https://media.giphy.com/media/MYI6NK4JOGpOzOriEg/giphy.gif">
-<img align="right" alt="coding" width="" src="">
+<br></br>
+<img align="right" alt="coding" width="200" src="https://media.giphy.com/media/oVvhEYvWDvE1G/giphy.gif">
 <img align="right" alt="coding" width="" src="">
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/xsCevAab5ufj37BeGR/giphy.gif">
 
