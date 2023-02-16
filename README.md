@@ -5,7 +5,10 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2EyMmI0YmMzNDJhYWQ2NGQxYTE5MzY3MjI1YTc2NDNjMGU0NTA0MyZjdD1z/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thegreatpayload)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+     <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true"/>
+<div>
+     
 
 
 <!--
