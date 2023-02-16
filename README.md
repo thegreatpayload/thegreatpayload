@@ -1,7 +1,7 @@
 ![logo](https://github.com/thegreatpayload/thegreatpayload/blob/8a991a27a4c1f027e5c5c70e48b379b19677dc30/thegreatpayload.jpg)
 <h1 align="center">Hi 👋, I'm Thegreatpayload</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="" src="https://media.giphy.com/media/MYI6NK4JOGpOzOriEg/giphy.gif">
+<img align="right" alt="coding" width="100" src="https://media.giphy.com/media/MYI6NK4JOGpOzOriEg/giphy.gif">
 <img align="right" alt="coding" width="" src="">
 <img align="right" alt="coding" width="" src="">
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/xsCevAab5ufj37BeGR/giphy.gif">
