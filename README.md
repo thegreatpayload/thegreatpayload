@@ -8,11 +8,8 @@
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDk5YmE4NjQ4MzNjOWU0M2JmNDlkNDIyOTJjYzE4MmIzOTNlYjcyMCZjdD1z/0BVUHAxVgLflWu9wsI/giphy.gif">
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thegreatpayload&theme=tokyonight" alt="thegreatpayload" /></p>
-
-
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thegreatpayload&label=Profile%20views&color=0e75b6&style=flat" alt="thegreatpayload" /> </p>
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/26ufiJt5K7T5teGhW/giphy.gif">
 
 
 
@@ -21,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <br></br>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTU1YTlmYTVkYzcyOWI4ZWE1MjIxMDNjM2YzNzU3MDc1NjZhNmVmMCZjdD1z/IRXWPyxahZLKJqYRyz/giphy.gif">
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/26ufiJt5K7T5teGhW/giphy.gif">
+
 <p align="left">
 <a href="https://instagram.com/thegreatpayload_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thegreatpayload_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCG9j7iqS8K2BeahackuzKtw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCG9j7iqS8K2BeahackuzKtw" height="30" width="40" /></a>
