@@ -5,10 +5,9 @@
 <br></br>
 <img align="right" alt="coding" width="200" src="https://media.giphy.com/media/oVvhEYvWDvE1G/giphy.gif">
 <br></br>
-<img align="right" alt="coding" width="650" src="https://media.giphy.com/media/102h4wsmCG2s12/giphy.gif">
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/102h4wsmCG2s12/giphy.gif">
 <br></br>
-<br></br>
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/xsCevAab5ufj37BeGR/giphy.gif">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thegreatpayload&label=Profile%20views&color=0e75b6&style=flat" alt="thegreatpayload" /> </p>
@@ -18,6 +17,8 @@
 - 📫 How to reach me **thegreatpayload@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+<br></br>
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/xsCevAab5ufj37BeGR/giphy.gif">
 <p align="left">
 <a href="https://instagram.com/thegreatpayload_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thegreatpayload_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCG9j7iqS8K2BeahackuzKtw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCG9j7iqS8K2BeahackuzKtw" height="30" width="40" /></a>
