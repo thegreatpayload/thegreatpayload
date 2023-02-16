@@ -11,6 +11,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thegreatpayload&label=Profile%20views&color=0e75b6&style=flat" alt="thegreatpayload" /> </p>
+<img align="right" alt="coding" width="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDk5YmE4NjQ4MzNjOWU0M2JmNDlkNDIyOTJjYzE4MmIzOTNlYjcyMCZjdD1z/0BVUHAxVgLflWu9wsI/giphy.gif">
 
 
 - 📫 How to reach me **thegreatpayload@gmail.com**
@@ -36,7 +37,7 @@
 
 
 <br></br>
-<img align="right" alt="coding" width="200" src="https://media.giphy.com/media/oVvhEYvWDvE1G/giphy.gif">
+
 <br></br>
 
 <br></br>
