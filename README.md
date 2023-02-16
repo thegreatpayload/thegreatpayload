@@ -1,4 +1,4 @@
-![logo](https://github.com/thegreatpayload/thegreatpayload/main/thegreatpayload.jpg)
+![logo](https://github.com/thegreatpayload/thegreatpayload/blob/8a991a27a4c1f027e5c5c70e48b379b19677dc30/thegreatpayload.jpg)
 <h1 align="center">Hi 👋, I'm Thegreatpayload</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
